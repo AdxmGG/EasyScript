@@ -39,3 +39,10 @@
 ### Edit a menu
 
 ```cyomMenuEdit("MENU", player)```
+
+
+## ASkyBlock *(requires ASkyBlock plugin)*
+
+### Open the Island Create Menu
+
+```asbIsCreate(player)```
