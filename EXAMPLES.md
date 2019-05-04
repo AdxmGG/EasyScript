@@ -12,6 +12,10 @@
 
 ```getActionbar("MESSAGE", player)```
 
+### Set the world time
+
+```getTime("DAY/NIGHT")```
+
 ## CYOM *(requires CreateYourOwnMenu plugin)*
 
 ### Open a menu
