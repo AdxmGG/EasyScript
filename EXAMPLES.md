@@ -16,6 +16,14 @@
 
 ```getTime("DAY/NIGHT")```
 
+### Get number of online players
+
+```getOnline(player)```
+
+### Get names of online players
+
+```getOnlineNames(player)```
+
 ## CYOM *(requires CreateYourOwnMenu plugin)*
 
 ### Open a menu
