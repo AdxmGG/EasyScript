@@ -16,6 +16,12 @@
 
 ```getTime("DAY/NIGHT")```
 
+### Teleport a player to another player
+
+```getTeleport(PLAYER, PLAYER)```
+
+*eg: getTeleport(player, Notch), this will teleport the executor to a player called "Notch"*
+
 ### Get number of online players
 
 ```getOnline(player)```
