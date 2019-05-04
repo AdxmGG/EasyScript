@@ -1,4 +1,4 @@
-#List of functions & usage
+# List of functions & usage
 
 ### Send a title with subtitle
 
@@ -12,7 +12,7 @@
 
 ```getActionbar("MESSAGE", player)```
 
-# CYOM
+## CYOM
 
 ### Open a menu
 
