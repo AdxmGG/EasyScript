@@ -13,3 +13,7 @@
 ### Open a menu
 
 ```cyomMenuOpen("MENU", player)```
+
+### Edit a menu
+
+```cyomMenuEdit("MENU", player)```
