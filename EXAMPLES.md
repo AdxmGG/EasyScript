@@ -12,7 +12,7 @@
 
 ```getActionbar("MESSAGE", player)```
 
-## CYOM *requires CreateYourOwnMenu plugin*
+## CYOM *(requires CreateYourOwnMenu plugin)*
 
 ### Open a menu
 
