@@ -41,8 +41,18 @@
 ```cyomMenuEdit("MENU", player)```
 
 
-## ASkyBlock *(requires ASkyBlock plugin)*
+## ASkyBlock *(requires ASkyBlock & Essentials plugin)*
 
 ### Open the Island Create Menu
 
 ```asbIsCreate(player)```
+
+## Vault *(requires Vault plugin)*
+
+### Show player's balance
+
+```vaultShowBalance(player)```
+
+### Add money to player's balance
+
+```vaultAddBalance(AMOUNT, player)```
