@@ -60,3 +60,13 @@
 ### Remove money from player's balance
 
 ```vaultRemoveBalance(AMOUNT, player)```
+
+# Multiverse *(requires Multiverse plugin)*
+
+### Create normal world
+
+```mvCreateNormalWorld("WORLDNAME")```
+
+### Create flat world
+
+```mvCreateFlatWorld("WORLDNAME")```
