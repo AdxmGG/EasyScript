@@ -30,7 +30,7 @@
 
 ```getOnlineNames(player)```
 
-## CYOM *(requires CreateYourOwnMenu plugin)*
+# CYOM *(requires CreateYourOwnMenu plugin)*
 
 ### Open a menu
 
@@ -41,13 +41,13 @@
 ```cyomMenuEdit("MENU", player)```
 
 
-## ASkyBlock *(requires ASkyBlock & Essentials plugin)*
+# ASkyBlock *(requires ASkyBlock & Essentials plugin)*
 
 ### Open the Island Create Menu
 
 ```asbIsCreate(player)```
 
-## Vault *(requires Vault plugin)*
+# Vault *(requires Vault plugin)*
 
 ### Show player's balance
 
