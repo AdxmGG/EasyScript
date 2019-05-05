@@ -2,23 +2,23 @@
 
 ### Send a title with subtitle
 
-```getTitle("TITLE", "SUBTITLE", player)```
+```showTitle("TITLE", "SUBTITLE", player)```
 
 *Want to make it an argument? Do it like this:*
 
-```getTitle(arg-1, arg-2, player)```
+```showTitle(arg-1, arg-2, player)```
 
 ### Send an actionbar message
 
-```getActionbar("MESSAGE", player)```
+```showActionbar("MESSAGE", player)```
 
 ### Set the world time
 
-```getTime("DAY/NIGHT")```
+```setTime("DAY/NIGHT")```
 
 ### Teleport a player to another player
 
-```getTeleport(PLAYER, PLAYER)```
+```doTeleport(PLAYER, PLAYER)```
 
 *eg: getTeleport(player, Notch), this will teleport the executor to a player called "Notch"*
 
