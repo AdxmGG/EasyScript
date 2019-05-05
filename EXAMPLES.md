@@ -56,3 +56,7 @@
 ### Add money to player's balance
 
 ```vaultAddBalance(AMOUNT, player)```
+
+### Remove money from player's balance
+
+```vaultRemoveBalance(AMOUNT, player)```
