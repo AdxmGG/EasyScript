@@ -69,5 +69,5 @@
 
 ### TP to a world
 
-```mvTpWorld("WORLDNAME", player)
+```mvTpWorld("WORLDNAME", player)```
 
