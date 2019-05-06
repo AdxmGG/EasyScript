@@ -67,6 +67,10 @@
 
 ```mvCreateWorld("WORLDNAME", "TYPE", "PRESET")```*Leave "PRESET" blank for normal world*
 
+### Delete world
+
+```mvDeleteWorld("WORLDNAME")```*
+
 ### TP to a world
 
 ```mvTpWorld("WORLDNAME", player)```
