@@ -63,10 +63,11 @@
 
 # Multiverse *(requires Multiverse plugin)*
 
-### Create normal world
+### Create world
 
-```mvCreateNormalWorld("WORLDNAME")```
+```mvCreateWorld("WORLDNAME", "TYPE", "PRESET")```*Leave "PRESET" blank for normal world*
 
-### Create flat world
+### TP to a world
 
-```mvCreateFlatWorld("WORLDNAME")```
+```mvTpWorld("WORLDNAME", player)
+
