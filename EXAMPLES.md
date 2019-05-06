@@ -75,3 +75,28 @@
 
 ```mvTpWorld("WORLDNAME", player)```
 
+# Chat Manager *(requires Chat Manager script)*
+
+### Clear Chat
+
+```cmClear("REASON", player)```
+
+### Mute Chat
+
+```cmMute("REASON", player)```
+
+### Unmute Chat
+
+```cmUnmute("REASON", player)```
+
+### Chat Announcement
+
+```cmAnnounce("ANNOUNCEMENT", player)```
+
+### Chat Countdown
+
+```cmCountdown("SECONDS", player)```
+
+### Chat Fake Join/Leave 
+
+```cmFake("JOIN/LEAVE", "PLAYER NAME", player)```
