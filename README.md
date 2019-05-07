@@ -6,9 +6,9 @@
 
 EasyScript constists of a bunch of functions you can use in any of your scripts to make it shorter, and easier to make.
 
-## DOWNLOADS
+# DOWNLOADS
 https://github.com/1see7/EasyScript/releases
-# EXAMPLES
+## EXAMPLES
 https://github.com/adammcgrogan/EasyScript/blob/master/EXAMPLES.md
-# ISSUES
+## ISSUES
 https://github.com/adammcgrogan/EasyScript/issues
