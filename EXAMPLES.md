@@ -40,13 +40,6 @@
 
 ```cyomMenuEdit("MENU", player)```
 
-
-# ASkyBlock *(requires ASkyBlock & Essentials plugin)*
-
-### Open the Island Create Menu
-
-```asbIsCreate(player)```
-
 # Vault *(requires Vault plugin)*
 
 ### Show player's balance
@@ -60,6 +53,10 @@
 ### Remove money from player's balance
 
 ```vaultRemoveBalance(AMOUNT, player)```
+
+### Set a player's balance
+
+```vaultSetBalance(AMOUNT, player)```
 
 # Multiverse *(requires Multiverse plugin)*
 
